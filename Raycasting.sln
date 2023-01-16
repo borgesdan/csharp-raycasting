@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raycasting.CrossPlatform", "Raycasting.CrossPlatform\Raycasting.CrossPlatform.csproj", "{39B42A49-B82A-4E75-A51E-D54742F8904C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raycasting", "Raycasting\Raycasting.csproj", "{AF9E6284-DDD5-45CD-9AEC-C5AEBCBF0D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B42A49-B82A-4E75-A51E-D54742F8904C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B42A49-B82A-4E75-A51E-D54742F8904C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B42A49-B82A-4E75-A51E-D54742F8904C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B42A49-B82A-4E75-A51E-D54742F8904C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9E6284-DDD5-45CD-9AEC-C5AEBCBF0D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9E6284-DDD5-45CD-9AEC-C5AEBCBF0D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9E6284-DDD5-45CD-9AEC-C5AEBCBF0D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9E6284-DDD5-45CD-9AEC-C5AEBCBF0D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {400E22DD-5E8D-43A8-9AD7-9994FB8F163D}
+	EndGlobalSection
+EndGlobal
