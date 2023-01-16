@@ -32,7 +32,7 @@ namespace Raycasting
 
                 var line = result.Line;
 
-                var destinationRectangle = new Rectangle(x, line.Start, 1, line.End);
+                var destinationRectangle = new Rectangle(x, line.Start, 1, line.Size);
 
                 spriteBatch.Draw(texture, destinationRectangle, color);
             }

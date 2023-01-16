@@ -72,7 +72,7 @@ namespace Raycasting
                 destination.X = x;
                 destination.Y = line.Start;
                 destination.Width = 1;
-                destination.Height = line.End;
+                destination.Height = line.Size;
 
                 Rectangle source;
                 source.X = (TextureIndices[x] * textureWidth) + TextureXPositions[x];
