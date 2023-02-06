@@ -21,5 +21,5 @@ Este código C# é baseado no código C da famosa página "Lode's Computer Graph
 
 ## Fonte
 
-O código-fonte é baseado no código C da página Lodev.org, que pode ser conferida aqui: [Lodev página oficinal]("https://lodev.org/cgtutor/raycasting.html).
+O código-fonte é baseado no código C da página Lodev.org, que pode ser conferida aqui: [Lodev Página Oficinal](https://lodev.org/cgtutor/raycasting.html).
     
